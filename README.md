@@ -33,6 +33,17 @@ OUTPUT :
 Print a single output statement which shows the minimum number of Pokémons Okarin himself should place inside the Pokémon-Multiplier over the entire period to get the desired "n".
 
 
+RESTRAINTS :
+
+time limit per test : 2 seconds
+
+memory limit per test : 256 megabytes
+
+input :  standard input
+
+output : standard output
+
+
 
 EXAMPLE :
 
@@ -104,6 +115,15 @@ TEST CASE 5 :
 INPUT : 157
 
 EXPECTED OUTPUT : 5
+
+
+NOTE : MY SOLUTION USES GREEDY ALGORITHM. THE TIME COMPLEXITY OF MY CODE IS O(log n)
+
+THANK YOU,
+
+ABDUL RIYAN
+
+8/02/2023
 
 
 
