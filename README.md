@@ -74,7 +74,7 @@ DAY 5 Morning : 1 Pokémon added (18+1 Pokémon in the machine)
 
 DAY 6 Morning : 1 Pokémon added (38+1 Pokémon in the machine)
 
-Therefore, Okarin himself had to add 4 Pokémons to get 39 Pokémons frim the Pokémon-Multiplier.
+Therefore, Okarin himself had to add 4 Pokémons to get 39 Pokémons from the Pokémon-Multiplier.
 
 
 OTHER TEST  CASES THAT CAN BE REFERRED TO : 
