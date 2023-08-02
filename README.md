@@ -65,29 +65,44 @@ Therefore, Okarin himself had to add 4 Pokémons to get 39 Pokémons frim the Po
 
 OTHER TEST  CASES THAT CAN BE REFERRED TO : 
 
+
 TEST CASE 1 :
 
+
 INPUT : 12
+
 EXPECTED OUTPUT : 2
+
 
 TEST CASE 2 :
 
+
 INPUT : 20
+
 EXPECTED OUTPUT : 2
+
 
 TEST CASE 3 :
 
+
 INPUT : 8
+
 EXPECTED OUTPUT : 1
+
 
 TEST CASE 4 :
 
+
 INPUT : 12
+
 EXPECTED OUTPUT : 2
+
 
 TEST CASE 5 :
 
+
 INPUT : 157
+
 EXPECTED OUTPUT : 5
 
 
