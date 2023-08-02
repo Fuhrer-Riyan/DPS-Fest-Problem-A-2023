@@ -1,5 +1,6 @@
 # DPS-Fest-Problem-A-2023
 
+Herein lies the solution to QA, one of the six problems asked in the Code-a-Thon of the DPS FEST CHRYSALIS (15 July, 2023)
 
 Pokémon-Multiplier
 
